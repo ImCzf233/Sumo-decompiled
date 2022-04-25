@@ -1,3 +1,7 @@
+> Note: This client's clickgui keybind is **NOT RSHIFT**, Real keybind is the key `, it under the ```ESC```, Keycode is 192
+
+> 提示：这个客户端的Clickgui按键**不是右SHIFT**，是`键，在```ESC```下面那个按键，键盘码是192
+
 ## Sumo Ghost Client Decompiled
 This is the sumo client decompiled source code, Build able
 
